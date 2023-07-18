@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Muhammad-mansur/muhammad-mansur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Muhammad Mansur</h1>
+<h1 align="center">Hi there 👋, I'm Muhammad Mansur</h1>
 <h3 align="center">A passionate software engineer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-mansur&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-mansur" /> </p>
@@ -30,7 +28,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 💬 Ask me about **Html, CSS, Javascript, Python, C, Git, Bash Scripting**
+- 💬 Ask me about **Html, CSS, Javascript, Python, C, Git, Bash Scripting, Linux**
 
 - 📫 How to reach me **muhammadmansur737@gmail.com**
 
