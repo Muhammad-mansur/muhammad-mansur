@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Muhammad-mansur](https://github.com/Muhammad-mansur)
 
-- 💬 Ask me about **Html, Css, Bootstrap, Python, Linux, Shell and Bash scripting.**
+- 💬 Ask me about **anything related to tech.**
 
 - 📫 How to reach me **muhammadmansur737@gmail.com**
 
