@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [the software engineering program by alx.](https://www.alxafrica.com/)
 
-- 🌱 I’m currently learning **C, Python**
+- 🌱 I’m currently learning **Python and it's frameworks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Muhammad-mansur](https://github.com/Muhammad-mansur)
 
