@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/mansurcodez" target="blank"><img src="https://img.shields.io/twitter/follow/mansurcodez?logo=twitter&style=for-the-badge" alt="mansurcodez" /></a> </p>
 
-- 🔭 I’m currently working on [the software engineering program by alx.](https://www.alxafrica.com/)
-
 - 🌱 I’m currently learning **Everything Software Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Muhammad-mansur](https://github.com/Muhammad-mansur)
