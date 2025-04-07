@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Mansur</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-mansur&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-mansur" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mansurcodez" target="blank"><img src="https://img.shields.io/twitter/follow/mansurcodez?logo=twitter&style=for-the-badge" alt="mansurcodez" /></a> </p>
-
 - 🌱 I’m currently learning **Everything Software Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Muhammad-mansur](https://github.com/Muhammad-mansur)
